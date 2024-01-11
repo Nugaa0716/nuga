@@ -1,22 +1,18 @@
 Untuk menggunakan perintah Git di Command Prompt (CMD) atau Command Prompt di Windows, berikut adalah langkah-langkah dasarnya:
 
-Buka Command Prompt:
-
-Tekan Win + R, ketik cmd, dan tekan Enter.
-Navigasi ke Direktori Proyek:
-
-Gunakan perintah cd untuk berpindah ke direktori proyek Anda.
-bash
-Copy code
-cd path/to/your/project
-Inisialisasi Repositori Git (jika belum):
-
-Jika proyek Anda belum merupakan repositori Git, inisialisasikan dengan perintah:
-bash
-Copy code
-git init
-Tambahkan File ke Indeks:
-
+1. Buka Command Prompt:
+    Tekan Win + R, ketik cmd, dan tekan Enter.
+2. Navigasi ke Direktori Proyek:
+    Gunakan perintah cd untuk berpindah ke direktori proyek Anda.
+    bash
+    Copy code
+    cd path/to/your/project
+3. Inisialisasi Repositori Git (jika belum):
+    Jika proyek Anda belum merupakan repositori Git, inisialisasikan dengan perintah:
+    bash
+    Copy code
+    git init
+4. Tambahkan File ke Indeks:
 Tambahkan file ke indeks untuk persiapan commit:
 bash
 Copy code
