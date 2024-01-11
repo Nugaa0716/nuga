@@ -1,0 +1,13 @@
+Pastikan Anda telah menginstal Chocolatey. Jika belum, Anda dapat mengunjungi situs resmi Chocolatey (https://chocolatey.org/) untuk petunjuk instalasi.
+Buka command prompt sebagai administrator.
+Instal Imgcat menggunakan perintah berikut:
+                                choco install imgcat
+Setelah instalasi selesai, Anda dapat menggunakan perintah berikut untuk menampilkan file GIF di command prompt:
+                              imgcat path_to_your_gif.gif
+Pastikan untuk menggantikan path_to_your_gif.gif dengan lokasi dan nama file GIF yang ingin Anda tampilkan.
+Perlu diingat bahwa ini hanyalah salah satu opsi, dan terdapat berbagai alat lain yang dapat Anda gunakan. Selain itu, beberapa perangkat lunak terminal pihak ketiga juga mungkin memiliki dukungan untuk menampilkan file GIF.
+Jangan lupa untuk membaca dokumentasi atau petunjuk penggunaan untuk setiap alat yang Anda pilih.
+
+
+
+
