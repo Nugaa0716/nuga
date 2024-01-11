@@ -1,6 +1,8 @@
 Markdown adalah bahasa markup ringan yang digunakan untuk memformat teks di platform seperti GitHub, Reddit, Stack Overflow, dan banyak lagi. Ini dirancang untuk menjadi mudah dibaca dan mudah ditulis tanpa perlu alat khusus. Berikut adalah beberapa cara dasar untuk menggunakan Markdown:
 # 1.Headers:
-     ![gaa](https://github.com/Nugaa0716/nuga/assets/156058163/bb6acd87-6aec-4456-b989-c641cd26a4ea)
+          # Header 1
+          ## Header 2
+          ### Header 3
   Menghasilkan:
   Header 1
   Header 2
